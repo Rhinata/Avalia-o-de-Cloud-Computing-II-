@@ -1,4 +1,5 @@
 # Avaliação-de-Cloud-Computing-II-
+
 1- Ao falarmos sobre o suporte à estratégia de dados, assinale a alternativa que apresenta os tipos de dados que podem ser armazenados no Amazon S3 data lake:
 
 Estruturados, semiestruturados e não estruturados 
@@ -38,4 +39,17 @@ Ao utilizar um serviço de SaaS, a maior responsabilidade de segurança é do cl
 10- Com relação ao estágio de uma empresa, assinale a alternativa que apresenta o maior grau de maturidade no uso dos dados:
 
 Cultura direcionada por dados (Data Driven)
+
+11- Assinale a alternativa correta:
+
+O uso de Nuvem pública pode aumentar a disponibilização de novos produtos e serviços de forma mais ágil
+
+12- Assinale a alternativa que apresenta os quatro estágios de uma empresa, em ordem crescente de maturidade no uso dos dados:
+
+Transacional, Conhecimento dos dados, Baseada em dados, Direcionada por dados 
+
+13- Assinale a alternativa correta:
+
+Ao utilizar um serviço de PaaS, a responsabilidade de segurança passa a ser maior no CSP se comparado ao uso de IaaS
+
 
